@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 I'm Kelvin Chan @kelchan
-- 🔭 I’m currently working on developing a full stack calorie tracker 
+- 🔭 I’m currently working on developing a full stack calorie tracker web application
 - 📫 How to reach me: kelvin.chan131@gmail.com 
 
 
