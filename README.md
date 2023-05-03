@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm Kelvin Chan @kelchan
+- 👋 I'm Kelvin Chan @kelchan
 - 🔭 I’m currently working on developing a full stack calorie tracker 
 - 📫 How to reach me: kelvin.chan131@gmail.com 
 
